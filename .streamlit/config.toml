@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#5483B3"            # Mid blue accent
+backgroundColor="#021024"         # Dark navy background
+secondaryBackgroundColor="#052659" # Sidebar / cards
+textColor="#FFFFFF"               # White text
+font="sans serif"
